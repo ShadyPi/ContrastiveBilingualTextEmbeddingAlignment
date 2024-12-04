@@ -1,0 +1,12 @@
+python baseline.py BERT_CLS distilbert/distilroberta-base
+0.09081917632474501
+
+python baseline.py BERT_AVE distilbert/distilroberta-base
+0.04502018737061339
+
+python baseline.py ST all-distilroberta-v1
+0.13213991099607514
+
+python baseline.py ST distiluse-base-multilingual-cased-v1
+0.08138142449546201
+
